@@ -17,7 +17,7 @@ body {
 /* header */
 header {
     background-image: url("../images/1937323.jpg");
-    background: #0d0d0d45;
+    background-color: #0d0d0d45;
     background-blend-mode: multiply;
     height: 102vh;
     background-position: bottom;
