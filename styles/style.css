@@ -195,6 +195,7 @@ nav {
         align-items: center;
         justify-content: center;
         top: -150px;
+        position: relative;
     }
     .youtube-video{
         width: 90%;
