@@ -178,3 +178,13 @@ nav {
     margin: 10px auto;
     border-radius: 10px;
 }
+.trailer1 {
+    position: relative;
+    top: -100px;
+    width: fit-content;
+    margin: auto;
+}
+.youtube-video {
+    width: 853px;
+    height: 480px;
+}
