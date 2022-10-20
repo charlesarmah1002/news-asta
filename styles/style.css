@@ -188,3 +188,16 @@ nav {
     width: 853px;
     height: 480px;
 }
+@media screen and (max-width: 900px){
+    .trailer1 {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .youtube-video{
+        width: 60%;
+        height: 200px;
+        margin: auto;
+    }
+}
