@@ -194,10 +194,11 @@ nav {
         display: flex;
         align-items: center;
         justify-content: center;
+        top: -150px;
     }
     .youtube-video{
-        width: 60%;
-        height: 200px;
+        width: 90%;
+        height: 250px;
         margin: auto;
     }
 }
