@@ -167,6 +167,10 @@ nav {
     width: 400px;
     border: 2px #fdfefe solid;
 }
+.card  a {
+    text-decoration: none;
+    text-align: center;
+}
 .card:hover {
     scale: 1.05;
     box-shadow: #fdfefe 0 0 30px;
